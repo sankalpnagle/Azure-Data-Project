@@ -1,0 +1,9 @@
+{
+	"name": "sankalp-azure-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a924993-5afd-4c48-a2eb-82ec952f54e9",
+		"tenantId": "da5378f8-d461-4011-93ac-9ebd9f07bb86"
+	}
+}
